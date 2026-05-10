@@ -29,14 +29,12 @@ Finding a free LLM API shouldn't mean hunting through a dozen GitHub READMEs, si
 
 This repo is a **structured, machine-readable directory** of every free LLM API — rate limits, context windows, one-click config snippets, and direct API key links. Updated daily.
 
-**The problem we solve:**
+**Why this repo + [freellm.net](https://freellm.net):**
 
-- ❌ You find a "free LLM API" list — it's 2 years old, half the links are dead
-- ❌ You sign up for a provider — it silently requires a credit card, or worse, phone verification
-- ❌ You finally get a key — your config tool (Claude Code, Cursor, Codex) needs a different format
-- ❌ You want to compare two free models — you open 8 browser tabs of separate docs
-
-**This repo + [freellm.net](https://freellm.net) fixes all of that.**
+- ✅ **Always up-to-date** — data refreshed daily via automated monitoring, not a 2-year-old static list
+- ✅ **Credit card transparency** — clearly shows which providers require a card, phone verification, or nothing at all
+- ✅ **One-click configs** — ready-to-copy snippets for Claude Code, Cursor, Codex, Aider, and 10+ more tools
+- ✅ **Side-by-side comparison** — compare context windows, rate limits, and modalities across providers instantly
 
 ---
 
